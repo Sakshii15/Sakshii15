@@ -1,5 +1,5 @@
 <h2>Hi, I'm Sakshi 👋 </h2>
-# 💫 About Me:<br>
+💫 About Me:<br>
 🔭 I’m A Pre-final Year Student. <br>🌱 I’m currently Working on my Development and Programming Skills.<br>⚡ Looking for an Opportunity to Prove Myself.
 # <h1>Learning:</h1>
 👉Java<br>
