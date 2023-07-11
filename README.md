@@ -4,7 +4,8 @@
 # <h1>Learning:</h1>
 👉C++<br>
 👉DSA <br>
-👉Programming skills
+👉Programming skills<br>
+👉Reactjs
 
 
 # 💻 Tech Stack:
@@ -19,6 +20,6 @@
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
