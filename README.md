@@ -1,7 +1,7 @@
 <h2>Hi, I'm Sakshi 👋 </h2>
 💫 About Me:<br>
 🔭 A Developer. <br>🌱 Currently Working on my Development and Programming Skills.<br>⚡ Looking for an Opportunity to Prove Myself.
-# <h1>Learning:</h1>
+<h1>Learning:</h1>
 👉C++<br>
 👉DSA <br>
 👉Programming skills<br>
@@ -15,8 +15,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sakshii15&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
