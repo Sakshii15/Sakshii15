@@ -1,7 +1,7 @@
-<h2>Hi, I'm Sakshi 👋 </h2>
-💫 About Me:<br>
+<h1>Hi, I'm Sakshi 👋<br></h1>
+<h2><b>💫About Me:</b><br></h2>
 🔭 A Developer. <br>🌱 Currently Working on my Development and Programming Skills.<br>⚡ Looking for an Opportunity to Prove Myself.
-<h1>Learning:</h1>
+<h2>Learning:</h2>
 👉C++<br>
 👉DSA <br>
 👉Programming skills<br>
