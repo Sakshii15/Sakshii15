@@ -9,7 +9,6 @@
 ```yaml
 name: Sakshi sahu
 located_in: Ghaziabad,Uttar Pradesh
-current_job: Full Stack Developer
 education:
   [
     "Self-Taught Developer and Designer",
