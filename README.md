@@ -23,7 +23,6 @@ fields_of_interests:
   ]
 technical_background:
   [
-    "Full Stack Developer"
     "Intern - Software Engineer",
     "Intern - Web developer",
     "Intern - Full stack developer",
