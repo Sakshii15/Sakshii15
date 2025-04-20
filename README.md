@@ -1,50 +1,103 @@
 
- <h1 align ="center">Let's Connect !💬</h1>
- <h3>👨🏻‍💻  A Little Bit About Me and My Interests</h3>
- <hr>
- 
+<!-- Profile Image -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sakshii15/Sakshii15/main/image.png" alt="Sakshi Sahu - Developer" width="600" />
+</div>
 
-```yaml
-name: Sakshi sahu
-located_in: Ghaziabad,Uttar Pradesh
-education:
-  [
-    "Self-Taught Developer and Designer",
-    "Bachelor's in Computer Science",
-  ]
+<h1 align="center">Hi there, I'm Sakshi Sahu 👋</h1>
 
-fields_of_interests:
-  [
-    "Web Development",
-    "UI/UX",
-    "Innovative Projects"
-  ]
-technical_background:
-  [
-    "Intern - Software Engineer",
-    "Intern - Web developer",
-    "Intern - Full stack developer",
-  ]
-  
-currently_learning: ["Canvas,GSAP,Redux"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Development","Music"]
-```
-# 💻 Tech Stack:
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
- <p align="center">
-  <img src="https://github.com/Sakshii15/Sakshii15/assets/98975771/ff6bc43e-abd8-4e6e-b87b-d00a984fe6c1"/>
-</p>
- <p align="center">
-  <img src="https://camo.githubusercontent.com/c27faf5c5f503dae2aadda8171178a26d0b35072e175f8c2dbb98737bc1a7eea/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572"/>
+<p align="center">
+  💻 Full Stack Web Developer • 🎨 UI/UX Designer • 🤖 ML Enthusiast<br>
+  🌱 Currently learning Redux, GSAP, Canvas, and more!
 </p>
 
+---
 
+## 🚀 About Me
 
+- 🎓 Final-year B.Tech student at Raj Kumar Goel Institute of Technology, Ghaziabad
+- 🛠️ Building full-stack projects with MERN stack, Firebase, and Tailwind
+- 💡 Exploring Machine Learning and Intelligent Systems
+- 🧠 DSA and Competitive Programming enthusiast
+- 👩‍💼 Interned at JP Morgan Chase, BHEL, and The Sparks Foundation
 
+---
 
+## 🛠️ Tech Stack
 
+**Languages & Tools:**
 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat&logo=laravel)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
+---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sakshii15&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakshii15&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+Here are a few cool things I've built:
+
+- 🔧 [**TailorAI**](https://github.com/Sakshii15/TailorAI): AI-powered app that recommends kurta/suit stitching designs by analyzing fabric patterns.
+- 💬 [**Firebase Chat App**](https://github.com/Sakshii15/Firebase-ChatApp): Real-time messaging app using Firebase and React.
+- 🍿 [**Movie Recommendation System**](https://github.com/Sakshii15/Movie-Recommendation-System): Content-based ML recommendation project.
+- 🥘 [**Homechef Connect App**](https://github.com/Sakshii15/Homechef-Connect): Connects home chefs to customers through a food delivery interface.
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sakshi-sahu-021332227/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel)](https://portfolio159.netlify.app/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sahu.sakshii015@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode)](https://leetcode.com/sakshii15/)
+
+---
+
+## 🧠 Currently Learning
+
+- **Next.js 14 & App Router**  
+- **Generative AI & Diffusion Models** (e.g., Stable Diffusion, DALL·E 3)  
+- **Large Language Models** (GPT-4, LLaMA) & Prompt Engineering  
+- **Computer Vision & Deep Learning** (YOLOv8, Vision Transformers)  
+- **MLOps & AI Infrastructure** (Kubeflow, MLflow, AWS SageMaker)  
+- **Design Systems & UI Animations** with GSAP  
+- **MERN & Serverless Architectures** using AWS Lambda / Vercel Edge Functions
+
+---
+
+## 📌 To‑Do
+
+- [ ] Add design‑generation module to TailorAI using Generative AI  
+- [ ] Build a serverless, scalable backend for production  
+- [ ] Contribute to Open Source ML/AI projects  
+- [ ] Write technical blogs on Medium or Hashnode
+
+---
+
+## 🔥 Fun Fact
+
+> I'm a self-taught developer and UI/UX designer who loves bringing creative ideas to life with code.
+
+---
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Sakshii15)
