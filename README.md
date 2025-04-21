@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year B.Tech student at Raj Kumar Goel Institute of Technology, Ghaziabad
+- 🎓 2024 Passout B.Tech student at Raj Kumar Goel Institute of Technology, Ghaziabad
 - 🛠️ Building full-stack projects with MERN stack, Firebase, and Tailwind
 - 💡 Exploring Machine Learning and Intelligent Systems
 - 🧠 DSA and Competitive Programming enthusiast
